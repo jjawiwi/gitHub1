@@ -13,5 +13,6 @@ Esto es un párrafo
 
 #Esto es una lista númerica
 1. Lista
-1. Lista 2
-2. Lista 3
+   2. Lista 1.1 
+3. Lista 
+4. Lista 3
