@@ -33,8 +33,14 @@ Para buscar preguntas que uno tiene acerca de código, y puedes citar también l
 
 https://stackoverflow.com/questions
 
-##Código de Arduino
-```// Práctica encender y apagar un LED
+#Notas
+
+Fork es compartir, una especie de bifurcasión
+Open pull request, abrir una propuesta para poder ayudar la comunidad
+
+## Código de Arduino
+```cpp
+// Práctica encender y apagar un LED
 const int LED=13;
 void setup()
 {
