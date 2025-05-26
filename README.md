@@ -10,7 +10,7 @@ Curso de GitHub básico
 ![imagen de un gato](https://github.com/user-attachments/assets/2c64a215-e042-47bc-ab06-9b8f832e2ef1)
 
 ## foto de gato, subida elegantemente, desde mi repositorio
-
+![imagen de un gato](./imagenes/gato.jpg)
 
 ## Esto es un subtítulo
 Esto es un párrafo
