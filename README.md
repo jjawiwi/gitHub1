@@ -38,6 +38,7 @@ https://stackoverflow.com/questions
 Fork es compartir, una especie de bifurcasión
 Open pull request, abrir una propuesta para poder ayudar la comunidad
 
+
 ## Código de Arduino
 ```cpp
 // Práctica encender y apagar un LED
