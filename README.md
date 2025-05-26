@@ -1,6 +1,8 @@
 # gitHub1
 Curso de GitHub básico
 
+https://inaturalist-open-data.s3.amazonaws.com/photos/129658776/original.jpg
+
 ## Esto es un subtítulo
 Esto es un párrafo
 
