@@ -33,8 +33,10 @@ Para buscar preguntas que uno tiene acerca de código, y puedes citar también l
 
 https://stackoverflow.com/questions
 
-##Código de Arduino
-```// Práctica encender y apagar un LED
+## Código de Arduino
+
+```cpp
+// Práctica encender y apagar un LED
 const int LED=13;
 void setup()
 {
