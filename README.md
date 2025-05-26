@@ -38,6 +38,7 @@ https://stackoverflow.com/questions
 Fork es compartir, una especie de bifurcasión
 Open pull request, abrir una propuesta para poder ayudar la comunidad
 antiboredom Sam Lavigne Referente
+Pandoc ayuda a pasar todo tipo de código y pasarlo a diferentes formatos de programación 
 
 
 ## Código de Arduino
